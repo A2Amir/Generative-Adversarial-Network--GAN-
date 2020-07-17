@@ -1,4 +1,5 @@
 # The Mathematics behind the Generative Adversarial Networks (GANs)
+* [**Here you can find the GAN for Generating MNIST Handwritten Digits.**](https://github.com/A2Amir/Generative-Adversarial-Network--GAN-/blob/master/GAN.ipynb)
 
 
 ## 1. Introduction
@@ -67,4 +68,3 @@ Based on the value function **V ([G](http://Generator), [D](http://Discriminator
 
 There are many various problems that prevent successful **GAN** training due to the **GAN**s’ extremely diverse applications. Accordingly, improving the training of the **GAN**s is an open research field for researchers. in the next post I am going through the problems than can be happend by training a **GAN**.
 
-* [**Here you can find the GAN for Generating MNIST Handwritten Digits.**](https://github.com/A2Amir/Generative-Adversarial-Network--GAN-/blob/master/GAN.ipynb)
