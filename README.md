@@ -1,11 +1,11 @@
 # The Mathematics behind the Generative Adversarial Networks (GANs)
 
 
-# 1. Introduction
+## 1. Introduction
 
 In **2014**, one of the most important new developments in deep learning was the [**Generative Adversarial Network (GAN)**](https://www.google.com/search?client=firefox-b-e&q=http%3A%2F%2FI.+Goodfellow+et+al.%2C+%E2%80%9CGenerative+adversarial+nets.%E2%80%9D+in+Advances+in+neural+information+processing+systems%2C+pp.+2672%E2%80%932680%2C+2014) , which was presented by Ian Goodfellow and other researchers at Montreal University. The great potential of GANs lies in the imitation of every data distribution, which leads immediately to a popular approach among data scientists. It should be noted that **GAN** has been used in many research projects in recent years, including in satellite imagery mapping and game development. This post covers the concept and architecture of the **GAN** networks.
 
-# 2. The architecture of the GAN
+## 2. The architecture of the GAN
 
 **The basic idea of the GAN is to train two different networks( Generative and Discriminator Network) to compete with each other.** These networks have two different target functions to create fake images similar to real images (training data). For this purpose, these two networks were designed.
 
@@ -19,7 +19,7 @@ In **2014**, one of the most important new developments in deep learning was the
 
 > **_In other words, a discriminating network learns a function map from the input data (x) to the output (y) which is described in probabilistic terms as a conditional distribution P(y|x)._**
 
-# 3. The training process of the GAN
+## 3. The training process of the GAN
 
 **Based on figure above , the training phases of the GAN can be divided into six steps:**
 
@@ -35,7 +35,7 @@ In **2014**, one of the most important new developments in deep learning was the
 
 **Step 6:** since the Generator’s goal is the discriminator classification error maximization, the loss function is calculated and updated based on its noise by propagating the classification error back.
 
-# 4. The GAN's loss function
+## 4. The GAN's loss function
 
 In this section, the loss function of the GAN will be presented as **a mathematical equation** to show how the network works and how the error is calculated and propagated back to update the parameters to achieve different goals in the network.
 
