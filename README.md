@@ -3,7 +3,7 @@
 
 # 1. Introduction
 
-In **2014**, one of the most important new developments in deep learning was the [**Generative Adversarial Network (GAN)]**(http://I. Goodfellow et al., “Generative adversarial nets.” in Advances in neural information processing systems, pp. 2672–2680, 2014.) , which was presented by Ian Goodfellow and other researchers at Montreal University. The great potential of GANs lies in the imitation of every data distribution, which leads immediately to a popular approach among data scientists. It should be noted that **GAN** has been used in many research projects in recent years, including in satellite imagery mapping and game development. This post covers the concept and architecture of the** GAN \*\*networks.
+In **2014**, one of the most important new developments in deep learning was the [**Generative Adversarial Network (GAN)**](http://I. Goodfellow et al., “Generative adversarial nets.” in Advances in neural information processing systems, pp. 2672–2680, 2014.) , which was presented by Ian Goodfellow and other researchers at Montreal University. The great potential of GANs lies in the imitation of every data distribution, which leads immediately to a popular approach among data scientists. It should be noted that **GAN** has been used in many research projects in recent years, including in satellite imagery mapping and game development. This post covers the concept and architecture of the** GAN \*\*networks.
 
 # 2. The architecture of the GAN
 
