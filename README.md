@@ -19,7 +19,7 @@ In **2014**, one of the most important new developments in deep learning was the
 
 > **_In other words, a discriminating network learns a function map from the input data (x) to the output (y) which is described in probabilistic terms as a conditional distribution P(y|x)._**
 
-# **3. The **training\*\* **process** of the \*\*GAN
+# 3. The training process of the GAN
 
 **Based on figure above , the training phases of the GAN can be divided into six steps:**
 
@@ -35,7 +35,7 @@ In **2014**, one of the most important new developments in deep learning was the
 
 **Step 6:** since the Generator’s goal is the discriminator classification error maximization, the loss function is calculated and updated based on its noise by propagating the classification error back.
 
-# **4. The **GAN**’s **loss\*\* \*\*function
+# 4. The GAN's loss function
 
 In this section, the loss function of the GAN will be presented as **a mathematical equation** to show how the network works and how the error is calculated and propagated back to update the parameters to achieve different goals in the network.
 
