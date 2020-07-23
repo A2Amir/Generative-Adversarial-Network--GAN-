@@ -4,7 +4,19 @@
 
 ## 1. Introduction
 
-In **2014**, one of the most important new developments in deep learning was the [**Generative Adversarial Network (GAN)**](https://www.google.com/search?client=firefox-b-e&q=http%3A%2F%2FI.+Goodfellow+et+al.%2C+%E2%80%9CGenerative+adversarial+nets.%E2%80%9D+in+Advances+in+neural+information+processing+systems%2C+pp.+2672%E2%80%932680%2C+2014) , which was presented by Ian Goodfellow and other researchers at Montreal University. The great potential of GANs lies in the imitation of every data distribution, which leads immediately to a popular approach among data scientists. It should be noted that **GAN** has been used in many research projects in recent years, including in satellite imagery mapping and game development. This post covers the concept and architecture of the **GAN** networks.
+In **2014**, one of the most important new developments in deep learning was the [**Generative Adversarial Network (GAN)**](https://www.google.com/search?client=firefox-b-e&q=http%3A%2F%2FI.+Goodfellow+et+al.%2C+%E2%80%9CGenerative+adversarial+nets.%E2%80%9D+in+Advances+in+neural+information+processing+systems%2C+pp.+2672%E2%80%932680%2C+2014) , which was presented by Ian Goodfellow and other researchers at Montreal University. The great potential of GANs lies in the imitation of every data distribution, which leads immediately to a popular approach among data scientists. It should be noted that **GAN** has been used in many research projects in recent years, including in satellite imagery mapping and game development and has many [interesting applications](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/) . This post covers the concept and architecture of the **GAN** networks.
+
+Generating new plausible samples was the application described in the original paper by Ian Goodfellow, where GANs were used to generate new plausible examples for the MNIST handwritten digit dataset, the CIFAR-10 small object photograph dataset, and the Toronto Face Database.
+
+<p align='center'>
+<img src='/images/1.PNG'width="500" height="350">
+</p>  
+  
+
+
+Examples of GANs used to Generate New Plausible Examples for Image Datasets.Taken from Generative Adversarial Nets, 2014.
+
+
 
 ## 2. The architecture of the GAN
 
