@@ -8,9 +8,9 @@ In **2014**, one of the most important new developments in deep learning was the
 Generating new plausible samples was the application described in the original paper by Ian Goodfellow, where GANs were used to generate new plausible examples for the MNIST handwritten digit dataset, the CIFAR-10 small object photograph dataset, and the Toronto Face Database.The next sections cover the concept and architecture of the **GAN** networks.
 
 
-
-
-
+<p align="center">
+<img src="/images/1.PNG" width="500" heigth="400">
+</p>
 
 
 ## 2. The architecture of the GAN
@@ -72,6 +72,14 @@ Based on the value function **V ([G](http://Generator), [D](http://Discriminator
 **The final loss equation of the GAN in term of the min-max game:**
 
 ![](https://cdn-images-1.medium.com/max/1808/1*AbBssZZ3Xg9F_0gp3hQPYw.png)
+
+
+
+#### The faked MNIST Handwritten Digits Images generated of the GAN 
+<p align="center">
+<img src="/images/1200.png" width="500" heigth="400">
+</p>
+
 
 There are many various problems that prevent successful **GAN** training due to the **GAN**s’ extremely diverse applications. Accordingly, improving the training of the **GAN**s is an open research field for researchers. in the next post I am going through the problems than can be happend by training a **GAN**.
 
