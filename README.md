@@ -9,12 +9,11 @@ In **2014**, one of the most important new developments in deep learning was the
 Generating new plausible samples was the application described in the original paper by Ian Goodfellow, where GANs were used to generate new plausible examples for the MNIST handwritten digit dataset, the CIFAR-10 small object photograph dataset, and the Toronto Face Database.
 
 <p align='center'>
-<img src='../images/1.PNG' width="500" height="350">
+<img src='images/1.PNG' width="500" height="350">
 </p>  
   
 
 
-Examples of GANs used to Generate New Plausible Examples for Image Datasets.Taken from Generative Adversarial Nets, 2014.
 
 
 
