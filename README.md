@@ -9,7 +9,7 @@ Generating new plausible samples was the application described in the original p
 
 
 <p align="center">
-  <img src="/images/1.PNG" alt="" width="500" height="300" >
+  <img src="/images/1000.png" alt="" width="500" height="300" >
  </p>
   
 
