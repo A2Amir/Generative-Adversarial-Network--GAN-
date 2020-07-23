@@ -1,6 +1,8 @@
 # [The Mathematics behind the Generative Adversarial Networks (GANs)](https://medium.com/analytics-vidhya/generative-adversarial-network-gan-b510d41df2cb?source=friends_link&sk=20e058cc47e6b9a749e8b0aa3c887c25)
 * [**Here you can find the GAN for Generating MNIST Handwritten Digits.**](https://github.com/A2Amir/Generative-Adversarial-Network--GAN-/blob/master/GAN.ipynb)
-
+<p align="center">
+  <img src="/images/1.PNG" alt="" width="500" height="300" >
+ </p>
 
 ## 1. Introduction
 
@@ -10,9 +12,7 @@ Generating new plausible samples was the application described in the original p
 
 
   
-<p align="center">
-  <img src="/images/1.PNG" alt="" width="500" height="300" >
- </p>
+
 
 
 
